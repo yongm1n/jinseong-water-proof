@@ -21,7 +21,9 @@ Profile and categories: https://blog.naver.com/wlsl011
 3. https://blog.naver.com/wlsl011/224237518166 — 초량(보수동) 깡통 시장 상가 옥상 방수 공정, 2026-04-01. Surface preparation, primer, fibreglass and sealant crack repair, middle/top coats. Source's inconsistent location naming is shortened to 깡통시장 인근 상가 옥상, without adding an address.
 4. https://blog.naver.com/wlsl011/223537101751 — 서구 판넬 옥상 방수, 2024-08-05. Flower Village house rooftop panel shed; joints and screw-hole sealing; mineral waterproofing followed by urethane.
 
-Also read: https://blog.naver.com/wlsl011/223767743165 — 주례 아파트 누수 공사, 2025-02-20. Hot-water fitting leak repaired and rechecked. Private dispute details are not republished.
+5. https://blog.naver.com/wlsl011/223767743165 — 주례 아파트 누수 공사, 2025-02-20. Hot-water fitting behind plasterboard leaked, was repaired and rechecked. This already-read article was added to the work archive after the user asked to draw more from the blog. Private dispute details are not republished.
+
+The expanded service descriptions use the already-read pressure/acoustic detection and hot-water fitting repair accounts. This update adds no new source retrieval and makes no claim that the complete blog has been reviewed.
 
 Visible prose is newly written and summarized. No ratings, customer testimonials, certifications, fixed guarantees, office address, opening hours, exact prices, or completed-project counts have been invented.
 
