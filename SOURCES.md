@@ -47,7 +47,7 @@ The user requested more substantial content, references from similar businesses,
 
 ### New generated assets
 
-Built-in image_gen, one request each, produced these three assets. All were inspected by the asset agent and the owner, then exported as JPEG quality 83 into the Site. They are generic service concepts, not photographs of Jinseong's personnel, equipment or completed projects. Each visible placement is labeled as an AI image. None is used inside an actual case record.
+Built-in image_gen, one request each, produced these three assets. All were inspected by the asset agent and the owner, then exported as JPEG quality 83 into the Site. They are generic service concepts, not photographs of Jinseong's personnel, equipment or completed projects. The initial redesign labeled each visible placement as an AI image; the user subsequently requested removal of those on-page labels. None is used inside an actual case record.
 
 - `dist/assets/rooftop-hero.jpg`, 1672 × 941. Original `/Users/felix/.codex/generated_images/01a086db-52ca-7a61-a567-9fae2538bc53/exec-79d904bb-817d-48ae-9ae2-d85840900e2e.png`.
 - `dist/assets/leak-detection.jpg`, 1448 × 1086. Original `/Users/felix/.codex/generated_images/01a086db-52ca-7a61-a567-9fae2538bc53/exec-3cbc7291-674e-4113-acc4-4c61c627d9df.png`.
@@ -60,3 +60,7 @@ Prompts used:
 3. bathroom-space: photorealistic-natural, landscape 4:3 premium architectural photograph of a calm contemporary Korean apartment shower room, large light gray ceramic tiles, simple brushed metal shower fixture, linear drain, understated glass panel, soft daylight skimming tile texture. Camera from doorway with coherent perspective, lower half foreground floor visible to emphasize drainage/wet area, clean but lived-in believable residential scale, restrained navy/gray detail, no person, no text, logos, watermark, fake before/after or construction certification. Generic spatial service concept, not a claimed completed business project.
 
 The previous abstract material image is retained in Git history and removed from the delivered static directory because it is no longer used.
+
+## Caption removal
+
+At the user’s explicit request, the hero, three service-image captions and footer AI-image notice were removed. Image alternative text now describes the visible subject. Asset provenance above remains unchanged. No image was relabeled as an actual Jinseong job, person or piece of equipment.
