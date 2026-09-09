@@ -64,3 +64,17 @@ The previous abstract material image is retained in Git history and removed from
 ## Caption removal
 
 At the user’s explicit request, the hero, three service-image captions and footer AI-image notice were removed. Image alternative text now describes the visible subject. Asset provenance above remains unchanged. No image was relabeled as an actual Jinseong job, person or piece of equipment.
+
+## Business-card information supplied by the user — 2026-09-10
+
+The user supplied a screenshot of the business card and pointed out that its information was missing from the Site. Source image: `/var/folders/71/8ywm248d70x3v8t1pgbjdcm00000gn/T/codex-clipboard-20526451-4218-4cb2-af8e-e7310601a536.png`. The visible card was read directly; no new Naver retrieval was performed.
+
+Confirmed details reflected in the Site:
+- Business name on the card: 부산누수 진성 방수설비; 누수탐지전문업체.
+- Contact / representative: 이용진.
+- Offer: 무료 견적상담. This is not expanded into free visits, free construction, fixed prices, or warranty promises.
+- Phone: 010-7586-7006; email: wlsl011@naver.com; fax: 050-4418-7006.
+- Stated experience and attitude: 20년 경력, 내 집처럼 정성으로 공사.
+- Service scope: 방수공사, 옥상(우레탄) 방수, 특수방수(인젝션) 공사, 타일 공사, 주택 올수리/부분수리, 각종 수전류 교체, 변기/세면대 교체, 상·하수도 공사, 누수 탐지, 크랙 보수, 페인트 공사, 배관 공사, 통수 공사, 판넬 공사, 창호 코킹.
+
+The scope list also preserves previously verified blog offerings (분배기 교체, 트렌치 공사, 욕실 방수, 인테리어·리모델링). The contact section, footer and structured metadata now contain the confirmed email/fax/name; free-estimate wording is visible in the hero, navigation, contact actions and mobile contact bar. Payment details and a payment flow were not requested and are not added. The user-requested removal of visible AI-image notices remains in place.
