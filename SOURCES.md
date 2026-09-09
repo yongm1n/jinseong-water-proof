@@ -4,7 +4,7 @@ Site: 진성방수설비 (부산 누수 진성 방수 설비)
 
 ## Source inspection
 
-On 2026-09-10 KST, the owner agent read the already-open desktop Naver blog through the authorized browser tool after the desktop app was restarted. This yielded the profile, service categories, phone number and five complete recent articles. Later mobile navigation and further desktop image extraction were blocked by browser security review. No additional source retrieval was attempted after that denial. No original project photo was obtained or used.
+On 2026-09-10 KST, the owner agent read the already-open desktop Naver blog through the authorized browser tool after the desktop app was restarted. This yielded the profile, service categories, phone number and five complete recent articles. Later mobile navigation and further desktop image extraction were blocked by browser security review. No additional Naver source retrieval was attempted after that denial. No original project photo was obtained or used.
 
 Profile and categories: https://blog.naver.com/wlsl011
 
@@ -34,3 +34,29 @@ Visible prose is newly written and summarized. No ratings, customer testimonials
 Prompt: Abstract editorial macro of a dark graphite waterproof membrane / concrete-like sealed surface with clear water droplets. Portrait 4:5; one narrow diagonal line of cool natural light. Navy-charcoal, graphite and steel grey. Premium calm industrial mood. Conceptual material only; no recognisable place, buildings, roofs, architecture, people, workers, tools, logos, text, UI, or before-and-after imagery.
 
 No social-preview image requested or generated. The favicon is a simple geometric monogram authored as SVG.
+
+## Image-led redesign — 2026-09-10
+
+The user requested more substantial content, references from similar businesses, and active use of generated images. The composition was rebuilt around a full-width rooftop hero, symptom-to-case links, photographed service explanations, a four-step work process, five original case records, a documented owner quote, and five consultation questions. The FAQ and process summarize the already-read Jinseong records and basic information to bring to a consultation; they do not add pricing, warranty, emergency-response, insurance, or certification promises.
+
+### Industry references
+
+- https://www.americanleakdetect.com/ — first-party page retrieved on 2026-09-10. Referenced its symptom-oriented navigation, service context, photographic rhythm, and explanation of work stages. No text, brand identity, technical guarantees, equipment ownership, or images were copied.
+- https://www.gohong.co.kr/cases/ — first-party portfolio page retrieved on 2026-09-10. Referenced the clear classification of work records and connection to individual project stories. Its job counts, insurance claims and project photographs are not Jinseong facts and were not reused.
+- https://topnusoo.com/ — first-party search extract showed the Busan business's service and project taxonomy. Direct page fetch timed out; no claim of full visual inspection is made.
+
+### New generated assets
+
+Built-in image_gen, one request each, produced these three assets. All were inspected by the asset agent and the owner, then exported as JPEG quality 83 into the Site. They are generic service concepts, not photographs of Jinseong's personnel, equipment or completed projects. Each visible placement is labeled as an AI image. None is used inside an actual case record.
+
+- `dist/assets/rooftop-hero.jpg`, 1672 × 941. Original `/Users/felix/.codex/generated_images/01a086db-52ca-7a61-a567-9fae2538bc53/exec-79d904bb-817d-48ae-9ae2-d85840900e2e.png`.
+- `dist/assets/leak-detection.jpg`, 1448 × 1086. Original `/Users/felix/.codex/generated_images/01a086db-52ca-7a61-a567-9fae2538bc53/exec-3cbc7291-674e-4113-acc4-4c61c627d9df.png`.
+- `dist/assets/bathroom-space.jpg`, 1448 × 1086. Original `/Users/felix/.codex/generated_images/01a086db-52ca-7a61-a567-9fae2538bc53/exec-a3a77dad-52ca-4e00-a70e-7f0ebe0bd873.png`.
+
+Prompts used:
+
+1. rooftop-hero: photorealistic-natural, wide 16:9 cinematic architectural editorial image for Korean waterproofing business. Quiet flat rooftop of a modest modern Korean low-rise residential building after a rain shower at dawn, coated slate-gray waterproof roof surface with subtle wet reflections, crisp low parapet geometry, restrained coastal Korean neighborhood softly far in distance, dark navy shadows with soft warm dawn light. Eye level low wide lens looking across surface; right 60% contains architecture and glowing sky, left 40% dark uncluttered surface/sky suitable for white website headline overlay. Calm authoritative industrial craftsmanship, no people, no logos, no text, no watermark, no recognizable landmark or exact real project, no fantasy skyscrapers. Standalone photo only, no website mockup. 16:9 at least ~1600 wide.
+2. leak-detection: photorealistic-natural, landscape 4:3 editorial close-up of a professional's gloved hands (cropped arms, no identifiable face) using a simple ground-contact acoustic leak detection probe beside exposed copper/brass water pipes and a plain analog pressure gauge in a clean residential utility area. Navy work sleeve, charcoal tool, believable restrained hardware and tidy concrete surface, cool natural daylight, natural material detail and shallow depth of field. Frame hands/tool center-right with uncluttered left area, premium calm photograph, no text, logos, brands, tablet or fabricated thermal overlay, no dramatic flooding, no excessive pipes. This is a generic service illustration, not an actual business project/team.
+3. bathroom-space: photorealistic-natural, landscape 4:3 premium architectural photograph of a calm contemporary Korean apartment shower room, large light gray ceramic tiles, simple brushed metal shower fixture, linear drain, understated glass panel, soft daylight skimming tile texture. Camera from doorway with coherent perspective, lower half foreground floor visible to emphasize drainage/wet area, clean but lived-in believable residential scale, restrained navy/gray detail, no person, no text, logos, watermark, fake before/after or construction certification. Generic spatial service concept, not a claimed completed business project.
+
+The previous abstract material image is retained in Git history and removed from the delivered static directory because it is no longer used.
