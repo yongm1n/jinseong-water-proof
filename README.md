@@ -12,9 +12,9 @@ GitHub Free에서 Pages를 쓰려면 저장소가 공개 상태여야 합니다.
 2. Branch를 `main`, 폴더를 `/docs`로 선택합니다.
 3. **Save**를 누릅니다.
 
-배포 후 예상 주소: `https://yongm1n.github.io/jinseong-water-proof/`
+운영 주소: [진성방수설비](https://yongm1n.github.io/jinseong-water-proof/)
 
-ChatGPT에서 파일을 수정한 뒤 `main`에 커밋하고 GitHub에 push하면 GitHub Pages가 변경 사항을 자동으로 발행합니다. 이 저장소는 아직 Pages를 켜거나 배포하지 않았습니다.
+ChatGPT에서 파일을 수정한 뒤 `main`에 커밋하고 GitHub에 push하면 GitHub Pages가 변경 사항을 자동으로 발행합니다. 현재 `main`의 `/docs` 폴더와 Pages가 연결되어 있습니다.
 
 ## 폴더 구성
 
